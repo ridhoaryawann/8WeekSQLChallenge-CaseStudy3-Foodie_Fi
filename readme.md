@@ -1,5 +1,7 @@
 # 🍜 8 Week SQL Challenge - Case Study #3: Foodie-Fi
 
+![Header](./header.png)
+
 This repository contains my solutions to **Case Study #3: Foodie-Fi** from the [8 Week SQL Challenge](https://8weeksqlchallenge.com/case-study-3/), created by **Danny Ma**. I took on this challenge to deepen my understanding of **PostgreSQL**, improve my SQL skills, and practice solving real-world business problems using data.
 
 ---
